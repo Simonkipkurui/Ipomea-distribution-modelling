@@ -1,8 +1,4 @@
 # 🌿 Species Distribution Modelling of *Ipomoea* Species in Kenya's🌍
-# 🌍 Species Distribution Modelling of Aloe Species in Kenya's ASAL Regions  
-
----
-
 ## 📘 Abstract
 
 This project applies advanced species distribution modelling (SDM) techniques to assess the historical, current, and future potential distribution of **Ipomea plant** in **Kajiado**. Ipomea  plants are invasive threathening other speceis 
